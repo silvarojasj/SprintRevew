@@ -1,0 +1,38 @@
+LISTA DE METAS DEL CURSO    
+
+OBJETIVO GENERAL
+
+Convertirme en un desarrollador Full Stack capaz de incursionar en el mercado laboral, mediante la comprension
+de nuevos conceptos y herramientas que me permitan  mejorar mis habilidades a nivel profesional y personal.
+
+OBJETIVOS ESPECIFICOS 
+
+   * Mejorar la velocidad de escritura de texto.
+   * Aprender a usar el IDE seleccionado asi como sus  herramienta
+   * Aprender la estructura del lenguaje.
+   * Conocer las tecnicas de programacion mas usadas en la industria.
+   * conocer herramientas de programacion usadas actualmente en la industria 
+   * Implementat las habilidades blandas vistas a lo largo del curso
+   * Mejorar mis habilidades sociales en entornos de trabajo
+
+
+LISTA DE TAREAS
+
+   - Practicar touch typing en la plataforma
+   - Aprender a usar las herramientas del IDE, asi como los atajos de teclado
+   - Revisar el material proporcionado en el curso, y conceptualizarlo para su posterior entendimiento  
+   - Practica de los concomientos basicos del lenguaje Javascript, los nuevos conocimientos adiquiridos
+   - Usar los conocimientos adquiridos de metodologias agiles.
+   - Usar las herramienta diversas herramientas en los ejercicios y laboratoreos planteados
+   - Implementar los conceptos de habilidades blandas vistas en el curso
+
+
+LISTA DE FUENTES DE INFORMACION DE ERRORES JAVASRIPT
+
+* Developers.mozilla.org  
+* Stack Overflow
+* WordPress.org
+* codeAcademi.com
+* github/issues
+* codeAcademi.com
+* github/issues
